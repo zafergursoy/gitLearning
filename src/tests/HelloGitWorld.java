@@ -3,7 +3,7 @@ package tests;
 public class HelloGitWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello new World again!!!");
+        System.out.println("Hello new World again!!! bla bla bla");
     }
 
 }
